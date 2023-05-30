@@ -18,7 +18,3 @@ We wish to express our sincere thanks to our loyal customers for their understan
 
 
 Godspeed to all.
-
-
-PURI Management
-2022
