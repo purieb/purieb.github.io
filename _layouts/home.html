@@ -21,9 +21,9 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
-          <div class="post-content">
-            {{ content }}
-          </div>
+        <div class="post-content e-content" itemprop="articleBody">
+          {{ content }}
+        </div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
