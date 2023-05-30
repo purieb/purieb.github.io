@@ -21,7 +21,6 @@
 title: PURI eBIKE
 email: info@puriebike.com.au
 description: >- # this means to ignore newlines until "baseurl:"
-PURI eBIKE News
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://puriebike.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 
