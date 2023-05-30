@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "PURI eBIKE Closure!"
-date:   2022
+date:   2022-12-31
 categories: PURI eBIKE
 ---
 Dear All,
@@ -16,7 +16,9 @@ The final blow to the business was dealt by COVID-19, which greatly disrupted ou
 
 We wish to express our sincere thanks to our loyal customers for their understanding and support throughout PURI eBike's existence. It has been a joyful ride for us all.
 
+
 Godspeed to all.
+
 
 PURI Management
 2022
