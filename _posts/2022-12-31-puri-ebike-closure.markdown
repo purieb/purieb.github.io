@@ -15,6 +15,5 @@ I would also like to extend my deepest apologies for any inconvenience caused by
 The final blow to the business was dealt by COVID-19, which greatly disrupted our supply chain. Despite our efforts to keep the business going by paying above the odds, we find ourselves unable to continue due to a lack of resources and will.
 
 We wish to express our sincere thanks to our loyal customers for their understanding and support throughout PURI eBike's existence. It has been a joyful ride for us all.
-</br>
-</br>
+
 Godspeed to all.
