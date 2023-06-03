@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 title: PURI eBIKE
 email: info@puriebike.com.au
-description: PURI eBIKE news
+description: >-
+PURI eBIKE news
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://puriebike.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
