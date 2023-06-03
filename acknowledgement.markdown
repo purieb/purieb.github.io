@@ -3,7 +3,7 @@ layout: page
 title: Acknowledgement
 permalink: /acknowledgement/
 ---
-<h3>Acknowledgement of Traditional Owners</h3>
+<h2>Acknowledgement of Traditional Owners</h2>
 
 <p>We acknowledge the Traditional Owners of the land on which we are gathering,</p>
 
