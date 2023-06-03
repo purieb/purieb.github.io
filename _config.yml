@@ -20,13 +20,12 @@
 
 title: PURI eBIKE
 email: info@puriebike.com.au
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Puri eBike news
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://puriebike.com.au" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
-theme: pages-themes/minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme # add this line to the plugins list if you already have one
