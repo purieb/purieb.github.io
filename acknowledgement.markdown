@@ -3,16 +3,16 @@ layout: page
 title: Acknowledgement
 permalink: /acknowledgement/
 ---
-Acknowledgement of Traditional Owners
+<p>Acknowledgement of Traditional Owners</P>
 
-We acknowledge the Traditional Owners of the land on which we are gathering,
+<p>We acknowledge the Traditional Owners of the land on which we are gathering,</p>
 
-today, in the past and the future.
+<p>today, in the past and the future.</p>
 
+<p></p>
 
+<p>We pay our respects to their Elders, past and present,</P>
 
-We pay our respects to their Elders, past and present,
+<p>and the Elders of other communities,</p>
 
-and the Elders of other communities,
-
-who may be here, everywhere, today and every day.
+<p>who may be here, everywhere, today and every day.</p>
