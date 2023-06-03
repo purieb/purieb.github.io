@@ -3,11 +3,5 @@
 
 @import "{{ site.theme }}";
 .post-title,{
-  @include relative-font-size(1);
-  letter-spacing: -1px;
-  line-height: 1.15;
-
-  @media screen {
-    @include relative-font-size(1);
+  relative-font-size(1);
   }
-}
