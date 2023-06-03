@@ -1,9 +1,7 @@
 ---
 ---
 
-@import
-  "minima/skins/{{ site.minima.skin | default: 'dark' }}",
-  "minima/initialize";
+@import "minima";
 .post-title h4 {
     font-size: 18px;
 }
