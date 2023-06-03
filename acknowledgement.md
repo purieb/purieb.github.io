@@ -12,7 +12,6 @@ permalink: /acknowledgement/
 <p>today, in the past and the future.</p>
 
 <br>
-
 <p>We pay our respects to their Elders, past and present,</P>
 
 <p>and the Elders of other communities,</p>
