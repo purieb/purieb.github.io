@@ -2,7 +2,10 @@
 ---
 
 @import "minima";
-#site-header {
+.site-title, .site-title:visited {
+    color: #b5e853;
+}
+.site-header {
     background: rgba(0,0,0,0.1);
     width: 100%;
     border-bottom: 1px dashed #b5e853;
@@ -11,7 +14,7 @@
     color: #eaeaea;
 }
 .site-nav .page-link {
-    color: #eaeaea;
+    color: #b5e853;
     line-height: 1.5;
 }
 .post-title {
