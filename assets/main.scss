@@ -9,12 +9,18 @@
     background: rgba(0,0,0,0.1);
     width: 100%;
     border-bottom: 1px dashed #b5e853;
-    padding: 20px 0;
+    padding: 40px 0;
     margin: 0 40px 40px 0;
 }
 .site-nav .page-link {
     color: #b5e853;
     line-height: 1.5;
+}
+a.site-nav:hover {
+    color: #eaeaea;
+}
+a.page-link:hover {
+        color: #eaeaea;
 }
 .post-title {
     font-size: 18px;
@@ -23,6 +29,7 @@
 }
 .post-content {
     line-spacing: 10px;
+    margin-bottom: 10px;
 }
 .site-footer {
     border-top: 0.5px solid #e8e8e8;
@@ -42,11 +49,14 @@ a {
 a:hover {
     color: #eaeaea;
 }
+a:visited {
+    color: #b5e853;
+}
 body {
     color: #eaeaea;
     background: #151515 url(../assets/image/bkg.png) 0 0;
 }
 h1, h2, h3, h4, h5, h6 {
     color: #eaeaea;
-    margin: 10px 0;
+    margin: 10px 20px 0 0;
 }
