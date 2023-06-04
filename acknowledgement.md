@@ -18,5 +18,5 @@ permalink: /acknowledgement/
 
 <p>who may be here, everywhere, today and every day.</p>
 
-![Uncle Jack's distinctive scooter was on display at the front of Hamer Hall.(ABC News)](https://i.imgur.com/kgC8AWB.jpg)
-["Uncle Jack's distinctive scooter was on display..." (ABC News)](https://www.abc.net.au/news/2022-10-18/uncle-jack-charles-aboriginal-actor-state-funeral-melbourne/101546258)
+![Uncle Jack's distinctive scooter was on display at the front of Hamer Hall.(ABC News)](https://i.imgur.com/GQNU0Xm.jpg)
+[《Jack Charles: Born-again Blakfella》](https://www.amazon.com.au/Jack-Charles-Born-again-Blakfella-ebook/dp/B07QCBF1YD)
