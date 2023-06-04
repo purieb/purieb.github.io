@@ -19,6 +19,4 @@ We wish to express our sincere thanks to our loyal customers for their understan
 Godspeed to all.
 
 ![Uncle Jack's distinctive scooter was on display at the front of Hamer Hall.(ABC News)](https://i.imgur.com/Q83zDuS.jpg)
-
-<a href=“https://www.abc.net.au/news/2022-10-18/uncle-jack-charles-aboriginal-actor-state-funeral-melbourne/101546258” rel="new">
-Uncle Jack's distinctive scooter was on display...(ABC News)</a>
+[Uncle Jack's distinctive scooter was on display...(ABC News)](https://www.abc.net.au/news/2022-10-18/uncle-jack-charles-aboriginal-actor-state-funeral-melbourne/101546258)
