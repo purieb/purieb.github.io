@@ -5,6 +5,7 @@
 .post-title {
     font-size: 18px;
     margin-top: 10px;
+    color: #b5e853;
 }
 .post-content {
     line-spacing: 10px;
@@ -12,10 +13,15 @@
 .site-footer {
     border-top: 0.5px solid #e8e8e8;
     padding: 10px 0;
+    color: #b5e853;
 }
 .page-content {
     padding: 10px 0;
 }
 .post-content {
     margin-bottom: 10px;
+}
+a {
+    color: #b5e853;
+    text-decoration: underline;
 }
