@@ -6,7 +6,7 @@ categories: PURI eBIKE
 ---
 Dear All,
 
-It is with deep regret that we announce the permanent closure of PURI eBike, after almost 14 years of operation. Since its inception, there have been times when keeping the business afloat proved to be a struggle due to various challenges such as adapting to the market, navigating ever-changing laws and guidelines, dealing with the manufacturer's lack of quality control, and coping with fluctuating AUD and shipping costs.
+It is with deep regret that we announce the permanent closure of PURI eBike, after 12 years of operation. Since its inception, there have been times when keeping the business afloat proved to be a struggle due to various challenges such as adapting to the market, navigating ever-changing laws and guidelines, dealing with the manufacturer's lack of quality control, and coping with fluctuating AUD and shipping costs.
 
 Despite these challenges, we experienced many good times and I would like to express my personal gratitude to PURI eBike for providing me a platform to engage with the community. It was an honour to understand the needs of our customers and to have our products and services positively impact your lives. As an immigrant, this gave me immense pride and a sense of belonging in Australia.
 
