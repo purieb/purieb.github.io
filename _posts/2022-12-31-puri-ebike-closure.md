@@ -17,3 +17,7 @@ The final blow to the business was dealt by COVID-19, which greatly disrupted ou
 We wish to express our sincere thanks to our loyal customers for their understanding and support throughout PURI eBike's existence. It has been a joyful ride for us.
 
 Godspeed to all.
+
+![Uncle Jack's distinctive scooter was on display at the front of Hamer Hall.(ABC News)](/assets/image.jpg)
+
+https://www.abc.net.au/news/2022-10-18/uncle-jack-charles-aboriginal-actor-state-funeral-melbourne/101546258
