@@ -9,6 +9,10 @@ header {
     padding: 20px 0;
     margin: 0 0 40px 0;
 }
+.site-nav .page-link {
+    color: #eaeaea;
+    line-height: 1.5;
+}
 .post-title {
     font-size: 18px;
     margin-top: 10px;
@@ -20,7 +24,7 @@ header {
 .site-footer {
     border-top: 0.5px solid #e8e8e8;
     padding: 10px 0;
-    color: #b5e853;
+    color: #eaeaea;
 }
 .page-content {
     padding: 10px 0;
@@ -32,6 +36,8 @@ a {
     color: #b5e853;
     text-decoration: underline;
 }
+a:hover {
+    color: #eaeaea;
 body {
     color: #eaeaea;
     background: #151515 url(../assets/image/bkg.png) 0 0;
